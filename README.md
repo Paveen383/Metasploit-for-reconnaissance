@@ -28,33 +28,36 @@ Open terminal and try execute some kali linux commands
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7f92b96d-7d38-42bf-837d-4072e25e5e5b" />
 
-<img width="917" height="693" alt="image" src="https://github.com/user-attachments/assets/b9465e0d-49f0-441d-a33b-4b60ceb3029d" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/276754ba-204e-46aa-9074-b5a431621037" />
 
-<img width="873" height="510" alt="image" src="https://github.com/user-attachments/assets/da0ad0fb-912b-4611-bea0-110ceaa166b5" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/93ecb162-c297-4a2f-921a-024721cd85d3" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fbca26e2-f203-48ad-ad49-d355f3b3ac03" />
 
 <img width="801" height="595" alt="image" src="https://github.com/user-attachments/assets/3b7d1eca-a18b-4eac-8887-b6c811c1f6ec" />
 
 
 ## OUTPUT:
 
-<img width="684" height="597" alt="image" src="https://github.com/user-attachments/assets/2ee5c8c6-a794-47cc-bcee-29ccbae96e61" />
+<img width="1919" height="1071" alt="image" src="https://github.com/user-attachments/assets/65771b91-08cf-4437-a36f-f43282596713" />
 
-<img width="1915" height="948" alt="image" src="https://github.com/user-attachments/assets/9587c120-c36e-4c3c-a5b8-329e25d0f453" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2da15e6d-f418-424a-a27b-245230abb8f7" />
 
-<img width="1529" height="671" alt="image" src="https://github.com/user-attachments/assets/a69694d1-3910-4799-ac22-2c84a3ed8126" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b9126e7b-8f93-4d34-bd21-8c641bb8c3a3" />
 
-<img width="1135" height="198" alt="image" src="https://github.com/user-attachments/assets/348d10ba-3644-40de-8c12-b6aab7758728" />
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/6e05847f-dfa1-41ce-aead-580b56edb244" />
 
-<img width="1682" height="664" alt="image" src="https://github.com/user-attachments/assets/da74b385-b130-4f0d-b75d-f0c20fb07645" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/698a495d-6c23-4313-b997-301e42e5f280" />
 
-<img width="1506" height="681" alt="image" src="https://github.com/user-attachments/assets/0068b900-94df-4338-8f21-576fc5fa9169" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/94cb02d8-37ba-42b6-83f7-16739bd5bf09" />
 
-<img width="1464" height="618" alt="image" src="https://github.com/user-attachments/assets/13265c71-6e30-44ee-b191-9a3018c923e0" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ada481d1-2296-4242-9912-631680dd4afe" />
 
-<img width="1040" height="221" alt="image" src="https://github.com/user-attachments/assets/93b494bd-9805-419e-ae71-88cc85d11c41" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e6aaae14-4e85-4344-abec-411a53eb5dac" />
 
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/43fda29a-48b8-432f-b90f-53332d48eedc" />
 
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9c6afa02-f5eb-41a3-be6f-69edc9a506de" />
 
 ## RESULT:
 The Metasploit framework for reconnaissance is  examined successfully
